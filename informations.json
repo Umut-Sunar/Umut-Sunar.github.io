@@ -1,0 +1,128 @@
+{
+              "TR": {
+                            "Flag": "assets/images/Türkiye (TR).png",
+                            "name": "Doğan Umut Sunar",
+                            "location": "İstanbul, Türkiye",
+                            "expertise": "CX Strategiest | Growth Strategiest | CX & Digital Transformation | Start-up Maker",
+                            "details": {
+                                          "detail1": {
+                                                        "detailsname": "StartUp'lar",
+                                                        "detailsIcon": "./design/more-horizontal.svg",
+                                                        "detailsType": "internal",
+                                                        "Content": {
+                                                                      "ContentHeaders": [
+                                                                                    "İlk Startup'ım : FitPartner",
+                                                                                    "Kurumsal Girişim : Praticar",
+                                                                                    "Gaziantep'te ilk OnDemand Market Alışveriş Platformu: MarketSenin",
+                                                                                    "Biraz ara Kurumsal'a Dönüş",
+                                                                                    "Riski Düşük İş Modeli: İnşaat Sektörüne Giriş",
+                                                                                    "Future Factory: Üretme  ve İz Bırakma Takıntısı"
+                                                                      ],
+                                                                      "ContentDetails": [
+                                                                                    "İçimde her zaman dijital işler yapmak vardı. Endüstri mühendisliğini bitirip Turkcell'de çalışmaya başladığımda sürekli olarak Amerikada olgunluğa ulaşmış ancak Türkiye'de henüz konuşulmayan digital işler, Digital Startup'lar. İşte bu merak ile 2013 yılında Fitpartner doğdu. Fitpartner iki kişinin diyet programına başlayabileceği ve spor aktivitelerini gördükleri, birbirlerini gaza getirdiği bir platform. Diyet fikri ile çıkan uygulama, Persona görüşmelerinden sonra insanların kendi başlarına motive olamadıklarını farkedip, hemen farklı bir uygulamaya evirmiştik. İlk yatırırmımız (pre-seed) Turkcell'de 100 bin $ olarak aldık. Sadece yatırım almakla kalmadık, Standford üniversitesinde Y combinator oluşumunun 'Yeni İş Hızlandırma Program Eğitimini yerinde almaya hak hazandık. Benzersiz bir tecrübeydi. '",
+                                                                                    "Farklılaşan Turkcell yönetimi sonrası ( Süreya Ciliv sonrası) Turkcell'de kalmamaya karar verdim ve Anadolu Holding'e ait yeni çıkacak bir  digital marka'nın (Praticar)'a yönetici olarak tüm marka'yı inşaa etmek üzere gittim. Ajans yönetimi, digital marketting'in önemi, Digital bir ürünün kompleks operasyon süreçleriyle nasıl entegre edilmesi gerektiğini ögrendim ve Aandolu Holding lansman sonrası bizimle birlikte başlayan bulur.com 'da dahil olmak üzere yatırımlarını durdurdu. ( 2018 krizi nedeniyle)",
+                                                                                    "Tabi eş zamanlı Gaziantep'te bir marka çıkartıyorduk. Getir'in ilk zamanlarında Getir iş modelinin çok popüler olacağını düşünerek Antep'te başladık. MArka'ya büyüme ve iş modeli danışmanlığı yaptım. Ozaman iş modeline eklememiz gerekiyor dediğim Starbucks'tan kahvede getirmelisiniz tavsiyemi , yıllar sonra büyük markalar eklediğinde ne kadar önemli bir iş modeli tavsiyesi olduğunu farkettim. MarketSenin Gaziantep'li sanayici bir holding'e exit edildi. ",
+                                                                                    "Startup'ların %1 5 yıl içinde ayakta kalabiliyor. Yani geleneksel işlere kıyasla yüksek risk içeriyor. Eğer  özel hayatınızda kurduğunuz bir finansal gelir kaynağınız yok ise  kenarda olan paranızdan bağımsız Kurumsal hayata geri dönersiniz. Malesef 'That's is fact !' ",
+                                                                                    "İşte bu gerçek, beni önce finansal bir kaynak yaratmaya yöneltti. Burada kurduğum geleneksel iş modelinin detaylarını vermeyeceğim ancak bir şeyleri deneme özgürlüğüm var. ",
+                                                                                    "Yılların birikmişliği, hem digital marka kurma tecrübesi, hem CX , Digital dönüşüm tecrübesi, geleceği inşaa etme  heyecanına eşlik etti. Bu nedenle Future Factory'i kurdum. Future Factory özellikle CX,AI, Digital Transformation alanlarında teknoloji üretecek . Üretecek diyorum çünkü bu süreçte CTO (aynı zamanda co-founder) adaylarının azlığı ve varolanların şuan bu tarz yepyeni ve risklerle dolu bir  business'a başlamalarındaki isteksizlik beni digital ürün üretme  knowhow'ını elde etmeme zorladı. Halen bu süreç devam ediyor. "
+                                                                      ]
+                                                        }
+                                          },
+                                          "detail2": {
+                                                        "detailsname": "Projeler",
+                                                        "detailsIcon": "./design/more-horizontal.svg",
+                                                        "detailsType": "internal",
+                                                        "Content": {
+                                                                      "ContentHeaders": [
+                                                                                    "Machine Learning: Alerjisi olan kişilerde Alerjik Gıda Tespiti, Geliştirme Aşamasında ",
+                                                                                    "Machine Learning: İşten çıkmaya niyetli kişilerin tespiti, Patent Bekliyor",
+                                                                                    "*Large Language Model ile Müşteri Hizmetleri Konuşma Kalitesinin Tespiti",
+                                                                                    "*LLM ile Chat ve Telefon görüşmelerinde müşteri söylem analizi"
+                                                                      ],
+                                                                      "ContentDetails": [
+                                                                                    "Detaylar...",
+                                                                                    "Detaylar...",
+                                                                                    "Detaylar...",
+                                                                                    "Detaylar..."
+                                                                      ]
+                                                        }
+                                          },
+                                          "detail3": {
+                                                        "detailsname": "Linkedin",
+                                                        "detailsIcon": "design/external-link.svg",
+                                                        "detailsType": "external",
+                                                        "externalLink": "https://www.linkedin.com/in/do%C4%9Fan-umut-sunar-06601516/"
+                                          },
+                                          "detail4": {
+                                                        "detailsname": "Twitter",
+                                                        "detailsIcon": "design/external-link.svg",
+                                                        "detailsType": "external",
+                                                        "externalLink": "https://twitter.com/UmutSunar"
+                                          }
+                            }
+              },
+              "ENG": {
+                            "Flag": "assets/images/United Kingdom GB).svg",
+                            "name": "Doğan Umut Sunar",
+                            "location": "Istanbul, Turkey",
+                            "expertise": "CX Strategiest | Growth Strategiest | CX & Digital Transformation | Start-up Maker",
+                            "details": {
+                                          "detail1": {
+                                                        "detailsname": "STARTUP's",
+                                                        "detailsIcon": "./design/more-horizontal.svg",
+                                                        "detailsType": "internal",
+                                                        "Content": {
+                                                                      "ContentHeaders": [
+                                                                                    "My First Startup: FitPartner",
+                                                                                    "Corporate Venture: Praticar",
+                                                                                    "Gaziantep's First OnDemand Market Shopping Platform: MarketSenin",
+                                                                                    "Taking a Break, Back to Corporate",
+                                                                                    "Low-Risk Business Model: Entry into the Construction Sector",
+                                                                                    "Future Factory: The Obsession with Producing and Making an Impact"
+                                                                      ],
+                                                                      "ContentDetails": [
+                                                                                    "I always had a passion for digital projects. After graduating in industrial engineering and starting to work at Turkcell, I was constantly intrigued by digital businesses and Digital Startups that had matured in America but were still not discussed in Turkey. Driven by this curiosity, Fitpartner was born in 2013. Fitpartner is a platform where two people can start a diet program and see each other's sports activities, motivating each other. Initially an app idea based on diet, we quickly evolved it into a different application after realizing through Persona interviews that people couldn't motivate themselves on their own. Our first investment (pre-seed) was $100,000 from Turkcell.",
+                                                                                    "After a change in Turkcell's management (after Süreya Ciliv), I decided to leave Turkcell and went to build an entire new digital brand (Praticar) owned by Anadolu Holding as a manager. I learned about agency management, the importance of digital marketing, and how a digital product needs to be integrated with complex operation processes. After the launch, Anadolu Holding stopped its investments, including bulur.com which started with us, due to the 2018 crisis.",
+                                                                                    "At the same time, we were launching a brand in Gaziantep. Believing that the Getir business model would become very popular in the early days of Getir, we started in Antep. I provided growth and business model consulting for the brand. Years later, when big brands added the option of delivering coffee from Starbucks, which I suggested we should include in our business model, I realized how important that business model advice was. MarketIsYours was exited to a Gaziantep-based industrial holding.",
+                                                                                    "Only 1% of startups survive over 5 years, which means they carry a high risk compared to traditional businesses. If you don't have a source of financial income you've established in your personal life, you'll return to corporate life regardless of the money you have set aside. Unfortunately, 'That's a fact!'",
+                                                                                    "This reality first directed me to create a financial resource. I won't go into details of the traditional business model I established here, but I have the freedom to try things out.",
+                                                                                    "Years of accumulation, both the experience of creating digital brands, CX, Digital Transformation experience, accompanied the excitement of building the future. Therefore, I founded Future Factory. Future Factory will particularly produce technology in the areas of CX, AI, Digital Transformation. I say 'will produce' because the scarcity of CTO (also co-founder) candidates and the reluctance of the existing ones to start a brand-new and risky business like this forced me to acquire the know-how of producing digital products. This process is still ongoing."
+                                                                      ]
+                                                        }
+                                          },
+                                          "detail2": {
+                                                        "detailsname": "PROJECTS",
+                                                        "detailsIcon": "./design/more-horizontal.svg",
+                                                        "detailsType": "internal",
+                                                        "Content": {
+                                                                      "ContentHeaders": [
+                                                                                    [
+                                                                                                  "Machine Learning: Detection of Allergic Foods in People with Allergies, Under Development",
+                                                                                                  "Machine Learning: Detection of Individuals Intending to Leave Their Jobs, Patent Pending",
+                                                                                                  "*Large Language Model for Detection of Customer Service Conversation Quality",
+                                                                                                  "*LLM for Analysis of Customer Discourse in Chat and Phone Conversations"
+                                                                                    ]
+                                                                      ],
+                                                                      "ContentDetails": [
+                                                                                    "details...",
+                                                                                    "details...",
+                                                                                    "details...",
+                                                                                    "details..."
+                                                                      ]
+                                                        }
+                                          },
+                                          "detail3": {
+                                                        "detailsname": "LINKEDIN",
+                                                        "detailsIcon": "design/external-link.svg",
+                                                        "detailsType": "external",
+                                                        "externalLink": "https://www.linkedin.com/in/do%C4%9Fan-umut-sunar-06601516/"
+                                          },
+                                          "detail4": {
+                                                        "detailsname": "TWITTER",
+                                                        "detailsIcon": "design/external-link.svg",
+                                                        "detailsType": "external",
+                                                        "externalLink": "https://twitter.com/UmutSunar"
+                                          }
+                            }
+              }
+}

@@ -1,0 +1,7 @@
+const result= () => {
+
+return "Hello"
+
+}
+
+

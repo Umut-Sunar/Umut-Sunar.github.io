@@ -1,0 +1,21 @@
+* {
+
+box-sizing: border-box;
+
+
+}
+html {
+              text-decoration: none;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+
+
+}
+
+
+body{
+
+margin: 0 0;
+
+}
