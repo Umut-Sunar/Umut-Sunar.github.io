@@ -35,21 +35,6 @@ document.querySelector(".sayhi").addEventListener("click", (event) => {
 
 
 })
-// async function post(msj) {
-
-//               await axios.post("./js/messages.json", {
-
-//                             "mesaj": `${msj}`,
-
-//               }
-//               ).then((response) => {
-
-//                             console.log(response.data)
-//                             main_container.removeChild(main_container.lastChild)
-
-
-//               })
-// }
 
 
 

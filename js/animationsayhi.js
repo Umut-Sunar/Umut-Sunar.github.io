@@ -33,14 +33,15 @@ sayhi_button.addEventListener('animationend', (event) => {
 const sayhiText = document.querySelector(".sayhitext")
 const language_area=document.getElementById("language-button")
 language_area.addEventListener("click" ,()=> {
-
-              if(language_area.classList.contains("main-switchTR")){
-
-                            sayhiText.textContent = "Merhaba De!"
+              setTimeout((delay) => { if(language_area.classList.contains("main-switchTR")){
+                            sayhiText.textContent = ""
+                            sayhiText.textContent = "Merhaba de!"
               }else if ( language_area.classList.contains("main-switchENG")) {
+                            sayhiText.textContent = ""
                             sayhiText.textContent = "Say Hi!"
  
-              }
+              }},2)
+             
 
 
 })
